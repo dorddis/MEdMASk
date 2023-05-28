@@ -19,10 +19,11 @@ This project proposes to use NFTs to store and manage medical data on the Ethere
 - Verification of authenticity: NFTs can be used to verify the authenticity of medical documents, such as patient records and diagnostic reports. This could help prevent fraud and improve patient safety.
 - Control of data: Patients can have more control over their own data by using NFTs. They can decide who can access their data and for what purpose. They can also opt to sell their data to advertisers or researchers who are interested in it. They will know who buys their data and how much they pay for it.
 - Burnable copy of data: Patients can choose to burn their copy of the data after selling it or sharing it with someone else. This would ensure that they do not have duplicate copies of the same data that could cause confusion or conflict.
+- Scalability: blockchain technology in itself is scalable and can be used on vast databases with effortless and seamless transactions.
 
 ### Doctor Benefits
 
-- One stop access to data: Doctors can use NFTs to access all the relevant medical data of their patients in one place. They do not have to deal with multiple sources or formats of data. They can also update the data as needed, such as adding new medications or procedures.
+- One stop access to data: Doctors can use NFTs to access all the relevant medical data and EHRs (Electronic health records) of their patients in one place. They do not have to deal with multiple sources or formats of data. They can also update the data as needed, such as adding new medications or procedures.
 - Storage of medical records on ETH: Doctors can use ETH (Ethereum) as a storage medium for their medical records. ETH is a cryptocurrency that can be used to pay for transactions on the Ethereum blockchain. By storing their records on ETH, doctors can save money on storage costs and also earn rewards for validating transactions.
 
 ### Advertiser Benefits
